@@ -5,6 +5,8 @@ This project analyzes the 2008 US Flights dataset containing more than 7 million
 
 The project demonstrates practical data analytics skills including data cleaning, aggregation, statistical analysis, business insight generation, and data visualization.
 
+Course file: https://drive.google.com/file/d/1lGEDDVgD8QYMf9Fio_NG6jBWOF4Ttr7e/view?usp=sharing
+
 ## Dataset
 The dataset contains information about:
 * Airlines and flight numbers
